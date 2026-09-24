@@ -1,0 +1,15 @@
+{
+  "name": "campuseats-task-tracker",
+  "version": "1.0.0",
+  "description": "CampusEats Task Tracker - SE3090 Lab 08",
+  "main": "src/tasks.js",
+  "scripts": {
+    "start": "node src/tasks.js",
+    "test": "node --test"
+  },
+  "author": "Uthayakumaran Ajay (IT24102860)",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
